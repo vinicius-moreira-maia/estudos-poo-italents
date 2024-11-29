@@ -1,0 +1,12 @@
+Olá, estudante!
+Seja bem-vindo(a) à Avaliação Final, nela, você deverá:
+
+• Implementar mais um veículo a concessionaria. OK
+• Ajustar menu para exibir clientes cadastrados. OK
+• Refatorar o método de mostrar veículos para unificar. OK
+• Criar método de sugestão de veículo por biotipo do cliente. OK
+• Refatorar relatório para apresentar perda ou lucro com venda do veículo. OK
+• Gerar pelo menos 2 Exceptions personalizados. OK
+• Vasculhar o código em busca de possíveis bugs de execução e consertar.
+
+Nesse caso, a entrega deverá ser em vídeo com a gravação de cada processo. 
