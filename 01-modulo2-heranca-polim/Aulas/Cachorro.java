@@ -20,13 +20,13 @@ public class Cachorro implements Animal{
     }
 
     public static void main(String[] args) {
-        // o tipo pode ser tanto Animal quanto cachorro
+        // o tipo pode ser tanto Animal quanto Cachorro (polimorfismo)
         Animal cao = new Cachorro("mel", 12);
 
         Cachorro cao2 = new Cachorro("Chico", 2);
 
         cao.fazerBarulho();
-        cao2.fazerBarulho(true); // sobrecarga
+        cao2.fazerBarulho(true); // polimorfismo de sobrecarga
 
         // por ser um atributo 'static' (atributo de interface/classe) ele deve ser acessado estaticamente
         System.out.println(Animal.TIPO_ANIMAL);

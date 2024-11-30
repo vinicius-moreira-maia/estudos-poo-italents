@@ -7,7 +7,6 @@ public class RetanguloCirculoTriangulo {
         FormaGeometrica circ = new Circulo(3);
         FormaGeometrica ret = new Retangulo(3, 4);
 
-        // não sei calcular perímetro de triângulo a partir de base e altura
         tr.area();
 
         circ.area();
